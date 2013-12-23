@@ -1,0 +1,26 @@
+# TeamViewer #
+
+*	Authors: Noelia Ruiz Martínez...
+*	download [stable version][1]
+*	download [development version][2]
+
+This add-on helps to improve accessibility of TeamViewer with nVDA.
+
+It's based on TeamViewerNVDASupport add-on, developed by the same author. You should uninstall that old add-on to use this one, since both have common keystrokes and features.
+
+Tested on [TeamViewer][3] 9, trial version.
+
+## Key Commands: ##
+
+*	nvda+shift+C: Copies the ID and current password to the clipboard, so that they can be pasted and sent via chat when required for allow remote control.
+*	control+tab and control+shift+tab: Switch to other tab in the TeamViewer main dialog.
+*	NVDA+control+shift+h: Open the documentation. If it's not available for your default language opens english documentation.
+
+## Changes for 1.0 ##
+*	 Initial version.
+
+[1]: http://addons.nvda-project.org/files/get.php?file=tv
+
+[2]: http://addons.nvda-project.org/files/get.php?file=tv-dev
+
+[3]: http://www.teamviewer.com
