@@ -1,4 +1,4 @@
-﻿# -*- coding: UTF-8 -*-
+# -*- coding: UTF-8 -*-
 
 # App module for TeamViewer 9, trial version:
 # http://www.teamviewer.com
@@ -92,15 +92,14 @@ class AppModule(appModuleHandler.AppModule):
 		obj = api.getForegroundObject().simpleFirstChild
 		children = obj.children
 		if len(children) != 3:
-		# Translators: message presented when trying to switch to a different tab, but the main dialog of TeamViewer is not focused.
-			ui.message(_("You are out of main dialog."))
+			# Translators: message presented when trying to switch to a different tab, but the main dialog of TeamViewer is not focused.
+			ui.message(_("Unable to switch tab, please ensure the main dialog has focus."))
 			return
 		index = 0
 		for child in children:
 			if controlTypes.STATE_SELECTED in child.states:
 				break
-			else:
-				index += 1
+			index += 1
 		if index <= 1:
 			index = 2
 		else:
