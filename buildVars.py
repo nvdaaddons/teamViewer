@@ -17,17 +17,16 @@ addon_info = {
 	"addon-summary" : _("TeamViewer"),
 	# Add-on description
 	# Translators: Long description to be shown for this add-on on add-on information from add-ons manager
-	"Improves the accessibility of TeamViewer with NVDA.
-	TeamViewer can be used for remote control and meetings between computers.
-	For more information about TeamViewer application, see:
-	http://www.teamviewer.com
-	"""),
+	"addon-description" : _("""Improves the accessibility of TeamViewer with NVDA.
+TeamViewer can be used to hold online meetings as well as provide remote support/access.
+For more information about the TeamViewer application, see:
+http://www.teamviewer.com"""),
 	# version
 	"addon-version" : "1.0",
 	# Author(s)
 	"addon-author" : u"Noelia Ruiz Martínez <nrm1977@gmail.com>",
 	# URL for the add-on documentation support
-	"addon-url" : None
+	"addon-url" : "http://addons.nvda-project.org"
 }
 
 
@@ -35,7 +34,7 @@ import os.path
 
 # Define the python files that are the sources of your add-on.
 # You can use glob expressions here, they will be expanded.
-pythonSources = [os.path.join("addon", "appModules" "*.py"), os.path.join("addon", "*.py")]
+pythonSources = [os.path.join("addon", "appModules", "*.py"), os.path.join("addon", "*.py")]
 
 # Files that contain strings for translation. Usually your python sources
 i18nSources = pythonSources + ["buildVars.py", "docHandler.py"]
