@@ -1,6 +1,6 @@
 # TeamViewer #
 
-*	Authors: Noelia Ruiz Martínez...
+*	Authors: Noelia Ruiz Martínez, Mesar Hameed.
 *	download [stable version][1]
 *	download [development version][2]
 
@@ -14,7 +14,6 @@ Tested on [TeamViewer][3] 9, trial version.
 
 *	nvda+shift+C: Copies the ID and current password to the clipboard, so that they can be pasted and sent via chat when required for allow remote control.
 *	control+tab and control+shift+tab: Switch to other tab in the TeamViewer main dialog.
-*	NVDA+control+shift+h: Open the documentation. If it's not available for your default language opens english documentation.
 
 ## Changes for 1.0 ##
 *	 Initial version.
