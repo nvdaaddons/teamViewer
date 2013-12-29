@@ -13,7 +13,6 @@
 
 import appModuleHandler
 import addonHandler
-import languageHandler
 import os
 import api
 import controlTypes
@@ -39,39 +38,6 @@ class AppModule(appModuleHandler.AppModule):
 			# Translators: label for the password control in TeamViewer's main dialog.
 			obj.name = _("Password")
 
-	def getDocFolder(self):
-		langs = [languageHandler.getLanguage(), "en"]
-		for lang in langs:
-			docFolder = os.path.join(os.path.dirname(__file__), "..", "doc", lang)
-			if os.path.isdir(docFolder):
-				return docFolder
-			if "_" in lang:
-				tryLang = lang.split("_")[0]
-				docFolder = os.path.join(os.path.dirname(__file__), "..", "doc", tryLang)
-				if os.path.isdir(docFolder):
-					return docFolder
-				if tryLang == "en":
-					break
-			if lang == "en":
-				break
-		return None
-
-	def getDocPath(self, docFileName):
-		docPath = self.getDocFolder()
-		if docPath is not None:
-			docFile = os.path.join(docPath, docFileName)
-			if os.path.isfile(docFile):
-				docPath = docFile
-		return docPath
-
-	def script_about(self, gesture):
-		try:
-			os.startfile(self.getDocPath("readme.html"))
-		except WindowsError:
-			pass
-	# Translators: message presented in input mode.
-	script_about.__doc__ = _("Opens the documentation for this application module.")
-
 	def script_copyData(self, gesture):
 		obj = api.getForegroundObject().simpleLastChild.simpleLastChild.simplePrevious
 		if not obj:
@@ -81,7 +47,7 @@ class AppModule(appModuleHandler.AppModule):
 			return
 		obj = obj.simplePrevious.simplePrevious
 		id = obj.value
-		data = _("ID: {0} - Password: {1}").format(id, password)
+		data = _("ID: {idValue} - Password: {passwordValue}").format(idValue=id, passwordValue=password)
 		if api.copyToClip(data):
 			# Translators: message presented when TeamViewer's ID and password have been copied to the clipboard.
 			ui.message(_("ID and password copied to clipboard."))
@@ -112,5 +78,4 @@ class AppModule(appModuleHandler.AppModule):
 		"kb:NVDA+shift+c": "copyData",
 		"kb:control+tab": "changeTab",
 		"kb:control+shift+tab": "changeTab",
-		"kb:control+shift+NVDA+h": "about",
 	}
