@@ -24,7 +24,7 @@ http://www.teamviewer.com"""),
 	# version
 	"addon-version" : "1.0",
 	# Author(s)
-	"addon-author" : u"Noelia Ruiz Martínez <nrm1977@gmail.com>",
+	"addon-author" : u"Noelia Ruiz Martínez <nrm1977@gmail.com>, Mesar Hameed <mhameed@src.gnome.org>",
 	# URL for the add-on documentation support
 	"addon-url" : "http://addons.nvda-project.org"
 }
