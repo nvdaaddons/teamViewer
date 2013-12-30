@@ -47,12 +47,13 @@ class AppModule(appModuleHandler.AppModule):
 			return
 		obj = obj.simplePrevious.simplePrevious
 		id = obj.value
+		# Translators: a formatted message with the id and password which will be copied to clipboard ready to be pasted in a chat or similar to enable the individuals to share a team viewer session.
 		data = _("ID: {idValue} - Password: {passwordValue}").format(idValue=id, passwordValue=password)
 		if api.copyToClip(data):
 			# Translators: message presented when TeamViewer's ID and password have been copied to the clipboard.
 			ui.message(_("ID and password copied to clipboard."))
 	# Translators: message presented in input mode.
-	script_copyData.__doc__ = _("Copies your ID and password to the clipboard.")
+	script_copyData.__doc__ = _("Copies your ID and password to the clipboard ready for sharing.")
 
 	def script_changeTab(self, gesture):
 		obj = api.getForegroundObject().simpleFirstChild
@@ -72,7 +73,7 @@ class AppModule(appModuleHandler.AppModule):
 			index = 1
 		children[index].setFocus()
 	# Translators: message presented in input mode.
-	script_changeTab.__doc__ = _("Changes the selected tab on the main dialog of TeamViewer.")
+	script_changeTab.__doc__ = _("In the main dialog of TeamViewer, changes the selected tab.")
 
 	__gestures = {
 		"kb:NVDA+shift+c": "copyData",
