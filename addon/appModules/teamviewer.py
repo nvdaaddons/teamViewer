@@ -39,7 +39,7 @@ class AppModule(appModuleHandler.AppModule):
 			obj.name = _("Password")
 
 	def script_copyData(self, gesture):
-		obj = api.getForegroundObject().simpleLastChild.simpleLastChild.simplePrevious
+		obj = api.getForegroundObject().lastChild.lastChild.lastChild.previous.lastChild
 		if not obj:
 			return
 		password = obj.value
@@ -56,7 +56,7 @@ class AppModule(appModuleHandler.AppModule):
 	script_copyData.__doc__ = _("Copies your ID and password to the clipboard ready for sharing.")
 
 	def script_changeTab(self, gesture):
-		obj = api.getForegroundObject().simpleFirstChild
+		obj = api.getForegroundObject().firstChild.firstChild
 		children = obj.children
 		if len(children) != 3:
 			# Translators: message presented when trying to switch to a different tab, but the main dialog of TeamViewer is not focused.
