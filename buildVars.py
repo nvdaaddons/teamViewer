@@ -22,7 +22,7 @@ TeamViewer can be used to hold online meetings as well as provide remote support
 For more information about the TeamViewer application, see:
 http://www.teamviewer.com"""),
 	# version
-	"addon-version" : "1.0",
+	"addon-version" : "1.1-dev",
 	# Author(s)
 	"addon-author" : u"Noelia Ruiz Martínez <nrm1977@gmail.com>, Mesar Hameed <mhameed@src.gnome.org>",
 	# URL for the add-on documentation support
