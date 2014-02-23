@@ -8,14 +8,14 @@ msgstr ""
 "Project-Id-Version: teamViewer 1.0-dev\n"
 "Report-Msgid-Bugs-To: nvda-translations@freelists.org\n"
 "POT-Creation-Date: 2014-02-01 20:57+0100\n"
-"PO-Revision-Date: 2014-02-16 00:32+0100\n"
-"Last-Translator: René Linke <rene.linke@hamburg.de>\n"
+"PO-Revision-Date: 2014-02-12 15:03+0100\n"
+"Last-Translator: Ondrej Rosík <ondrej.rosik@gmail.com>\n"
 "Language-Team: LANGUAGE <LL@li.org>\n"
-"Language: de\n"
+"Language: sk\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 1.6.4\n"
+"X-Generator: Poedit 1.5.7\n"
 
 #. Translators: label for the ID control in TeamViewer's main dialog.
 msgid "ID"
@@ -23,41 +23,38 @@ msgstr "ID"
 
 #. Translators: label for the password control in TeamViewer's main dialog.
 msgid "Password"
-msgstr "Kennwort"
+msgstr "Heslo"
 
 #. Translators: a formatted message with the id and password which will be copied to clipboard ready to be pasted in a chat or similar to enable the individuals to share a team viewer session.
 msgid "ID: {idValue} - Password: {passwordValue}"
-msgstr "ID: {idValue} - Kennwort: {passwordValue}"
+msgstr "ID: {idValue} - heslo: {passwordValue}"
 
 #. Translators: message presented when TeamViewer's ID and password have been copied to the clipboard.
 msgid "ID and password copied to clipboard."
-msgstr "Die ID und das Kennwort wurden in die Zwischenablage kopiert"
+msgstr "ID a heslo skopírované do schránky."
 
 #. Translators: message presented in input mode.
 msgid "Copies your ID and password to the clipboard ready for sharing."
-msgstr "Kopiert die ID und das Kennwort in die Zwischenablage."
+msgstr "skopíruje ID a heslo do schránky na ďalšie použitie."
 
 #. Translators: message presented when trying to switch to a different tab, but the main dialog of TeamViewer is not focused.
 msgid "Unable to switch tab, please ensure the main dialog has focus."
-msgstr ""
-"Die Registerkarten konnten nicht gewechselt werden, stellen Sie sicher, dass "
-"der Hauptdialog den Fokus besitzt."
+msgstr "Nie je možné zmeniť záložku, overte si, že ste v hlavnom okne."
 
 #. Translators: message presented in input mode.
 msgid "In the main dialog of TeamViewer, changes the selected tab."
-msgstr "Wechselt im Hauptdialog von TeamViewer zwischen den Registerkarten."
+msgstr "Zmení záložku v hlavnom okne programu TeamViewer."
 
 #. Translators: the label of a message box dialog.
 msgid ""
 "You have installed the TeamViewerNVDASupport add-on, probably an old and "
 "incompatible version with this one. Do you want to uninstall the old version?"
 msgstr ""
-"Sie haben die Erweiterung TeamViewerNVDASupport installiert, die nicht "
-"kompatibel ist. Möchten Sie die alte Version der Erweiterung deinstallieren?"
+"Máte nainštalovanú staršiu verziu tohto doplnku. chcete ju aktualizovať?"
 
 #. Translators: the title of a message box dialog.
 msgid "Uninstall incompatible add-on"
-msgstr "Inkompatible Erweiterung deinstallieren"
+msgstr "odinštalovať nekompatibilný doplnok"
 
 #. Add-on summary, usually the user visible name of the addon.
 #. Translators: Summary for this add-on to be shown on installation and add-on information.
@@ -73,7 +70,8 @@ msgid ""
 "For more information about the TeamViewer application, see:\n"
 "http://www.teamviewer.com"
 msgstr ""
-"Verbessert die Zugänglichkeit von TeamViewer mit NVDA.\n"
-"Mit TeamViewer können Sie gemeinsam über ein Netzwerk auf andere PCs "
-"zugreifen. Weitere Informationen über TeamViewer finden Sie unter:\n"
+"Zlepšuje prístupnosť programu TeamViewer cez NVDA.\n"
+"TeamViewer  sa dá využiť na on-line konferencie a na vzdialenú správu "
+"počítača.\n"
+"pre viac informácii pozrite:\n"
 "http://www.teamviewer.com"
