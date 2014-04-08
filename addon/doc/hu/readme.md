@@ -2,14 +2,13 @@
 
 *	Készítők: Noelia Ruiz Martínez, Mesar Hameed.
 *	Letöltés [stabil verzió][1]
-*	 aLetöltés [fejlesztői verzió][2]
+*	Letöltés [fejlesztői verzió][2]
 
-Ez a kiegészítő a szoftver akadálymentes használatát segíti elő az NVDA
-segítségével.
+This add-on improves accessibility of TeamViewer with NVDA.
 
 Ez a TeamViewerNVDASupport kiegészítőn alapul, a kiegészítők fejlesztője
 megegyezik. A kiegészítő használatához távolítsa el a régebbi
-kiegészítőt. Amíg ez nem történik meg, a billentyűparancswok összeakadnak.
+kiegészítőt. Amíg ez nem történik meg, a billentyűparancsok összeakadnak.
 
 A [TeamViewer][3] 9-es, trial verziójával tesztelve.
 
@@ -23,6 +22,7 @@ A [TeamViewer][3] 9-es, trial verziójával tesztelve.
 ## Az 1.0 változásai ##
 *	 Első verzió
 
+[[!tag dev stable]]
 [[!tag dev]]
 
 [1]: http://addons.nvda-project.org/files/get.php?file=tv
