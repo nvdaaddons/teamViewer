@@ -4,7 +4,7 @@
 *	Télécharger [version stable][1]
 *	Télécharger [version de développement][2]
 
-This add-on improves accessibility of TeamViewer with NVDA.
+Ce module complémentaire améliore l'accessibilité de TeamViewer avec NVDA.
 
 Il est basé sur le module de TeamViewerNVDASupport, développé par le même
 auteur. Vous devez désinstaller ce ancien module complémentaire pour
