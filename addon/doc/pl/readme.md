@@ -4,7 +4,7 @@
 *	pobierz [wersja stabilna][1]
 *	pobierz [wersja rozwojowa][2]
 
-This add-on improves accessibility of TeamViewer with NVDA.
+Ten dodatek poprawia dostępność TeamViewer w NVDA.
 
 Bazuje na dodatku TeamViewerNVDASupport stworzonym przez tego samego
 autora. Powinieneś odinstalować ten stary dodatek przed użyciem tego,
