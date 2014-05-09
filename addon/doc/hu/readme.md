@@ -4,7 +4,9 @@
 *	Letöltés [stabil verzió][1]
 *	Letöltés [fejlesztői verzió][2]
 
-This add-on improves accessibility of TeamViewer with NVDA.
+Ez a kiegészítő a TeamViewer, egy távoli hozzáférést, és asztalmegosztást
+lehetővé tevő szoftver akadálymentes használatát teszi hatékonyabbá az NVDA
+segítségével.
 
 Ez a TeamViewerNVDASupport kiegészítőn alapul, a kiegészítők fejlesztője
 megegyezik. A kiegészítő használatához távolítsa el a régebbi
@@ -20,7 +22,7 @@ A [TeamViewer][3] 9-es, trial verziójával tesztelve.
   főablakában.
 
 ## Az 1.0 változásai ##
-*	 Első verzió
+*	 Első kiadás
 
 [[!tag dev stable]]
 [[!tag dev]]
