@@ -4,7 +4,8 @@
 *	Stiahnuť [stabilnú verziu][1]
 *	stiahnuť [verziu vo vývoji][2]
 
-This add-on improves accessibility of TeamViewer with NVDA.
+Tento doplnok zlepšuje prístupnosť programu TeamViewer s čítačom obrazovky
+NVDA.
 
 Doplnok je postavený na staršom doplnku od toho istého autora. Starší
 doplnok môžete odstrániť, lebo oba doplnky majú rovnaké klávesové skratky a
