@@ -20,6 +20,9 @@ Przetestowany na [TeamViewer][3] 9, wersja trial.
 *	control+tab i control+shift+tab: przełącza do innej zakładki w oknie
   głównym TeamViewer.
 
+## Changes for 2.0 ##
+*	 Add-on help is available from the Add-ons Manager.
+
 ## Zmiany dla 1.0 ##
 *	 Pierwsza wersja.
 

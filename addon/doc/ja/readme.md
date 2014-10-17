@@ -16,6 +16,9 @@ Tested on [TeamViewer][3] 9, trial version.
   現在のIDとパスワードをコピーします。たとえばリモートコントロールが要求されたときに、貼り付けてチャットを送ることができます。
 *	control+tab または control+shift+tab: チームビューアーのメインダイアログのタブを切り替えます。
 
+## Changes for 2.0 ##
+*	 Add-on help is available from the Add-ons Manager.
+
 ## 1.0への変更点 ##
 *	 最初のバージョン
 

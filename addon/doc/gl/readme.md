@@ -20,6 +20,9 @@ Comprobado no [TeamViewer][3] 9, Versión de proba.
 *	control+tab e control+shift+tab: Cambia a outra pestana no cadro de
   diálogo principal do TeamViewer.
 
+## Cambios para 2.0 ##
+*	 A axuda do complemento está dispoñible no Administrador de Complementos.
+
 ## Cambios para 1.0 ##
 *	 Versión inicial.
 

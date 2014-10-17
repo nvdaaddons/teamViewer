@@ -20,6 +20,9 @@
 *	control+tab and control+shift+tab: الانتقال إلى التبويبات بالمحاورة
   الرئيسية لبرنامج TeamViewer.
 
+## Changes for 2.0 ##
+*	 Add-on help is available from the Add-ons Manager.
+
 ## مستجدات الإصدار 1.0 ##
 *	 إصدار أولي
 

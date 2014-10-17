@@ -20,6 +20,9 @@ Testado no [TeamViewer][3] 9, versão demonstrativa.
 *	control+tab e control+shift+tab: Alterna para outras guias no diálogo
   principal do TeamViewer.
 
+## Changes for 2.0 ##
+*	 Add-on help is available from the Add-ons Manager.
+
 ## Mudanças na 1.0 ##
 *	 Versão inicial.
 

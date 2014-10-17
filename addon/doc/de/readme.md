@@ -21,6 +21,9 @@ Getestet mit [TeamViewer][3] 9, trial-Version.
 *	Steuerung+Tab und Steuerung+Umschalt+Tab wechsle zu anderem Tab im
   TeamViewer-Hauptfenster.
 
+## Changes for 2.0 ##
+*	 Add-on help is available from the Add-ons Manager.
+
 ## Änderungen bis 1.0 ##
 *	 Ehrstveröffentlichung
 

@@ -21,6 +21,10 @@ Testé sur [TeamViewer][3] 9, version d'essai.
 *	contrôle+tab et contrôle+maj+tab: Basculez vers un autre onglet dans la
   boîte de dialogue principale de TeamViewer.
 
+## Changements pour la version 2.0 ##
+*	 L'aide du module complémentaire est disponible à partir du Gestionnaire
+   de modules complémentaires.
+
 ## Changements pour la version 1.0 ##
 *	 Première version.
 

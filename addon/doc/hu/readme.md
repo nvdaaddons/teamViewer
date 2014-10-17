@@ -21,6 +21,9 @@ A [TeamViewer][3] 9-es, trial verziójával tesztelve.
 *	control+tab és control+shift+tab: Vált a többi lapfül között a TeamViewer
   főablakában.
 
+## Changes for 2.0 ##
+*	 Add-on help is available from the Add-ons Manager.
+
 ## Az 1.0 változásai ##
 *	 Első kiadás
 

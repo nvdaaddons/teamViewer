@@ -20,6 +20,9 @@ This add-on improves accessibility of TeamViewer with NVDA.
 *	control+tab и control+shift+tab: Переключиться на другую вкладку в главном
   диалоге TeamViewer.
 
+## Changes for 2.0 ##
+*	 Add-on help is available from the Add-ons Manager.
+
 ## Изменения для версии 1.0 ##
 *	 Первоначальная версия.
 
