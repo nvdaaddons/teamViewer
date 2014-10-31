@@ -20,8 +20,8 @@ Testované na [TeamViewer][3] 9, skúšobná verzia.
 *	Ctrl+tab a ctrl+shift+tab: prepína medzi záložkami v hlavnom okne
   programu.
 
-## Changes for 2.0 ##
-*	 Add-on help is available from the Add-ons Manager.
+## Zmeny vo verzii 2.0 ##
+*	 Návod k doplnku nájdete v správcovi doplnkov.
 
 ## Zmeny vo verzii 1.0 ##
 *	 prvé vydanie.
