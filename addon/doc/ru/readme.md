@@ -4,7 +4,7 @@
 *	загрузить [стабильную версию][1]
 *	загрузить [разрабатываемую версию][2]
 
-This add-on improves accessibility of TeamViewer with NVDA.
+Это дополнение улучшает доступность TeamViewer с NVDA.
 
 Оно основано на дополнении TeamViewerNVDASupport, разработанном тем же
 автором. Вы должны удалить старое дополнение перед использованием этого, так
@@ -20,8 +20,8 @@ This add-on improves accessibility of TeamViewer with NVDA.
 *	control+tab и control+shift+tab: Переключиться на другую вкладку в главном
   диалоге TeamViewer.
 
-## Changes for 2.0 ##
-*	 Add-on help is available from the Add-ons Manager.
+## Изменения для версии 2.0 ##
+*	 Справка дополнения доступна в диспетчере дополнений.
 
 ## Изменения для версии 1.0 ##
 *	 Первоначальная версия.

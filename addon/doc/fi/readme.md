@@ -20,8 +20,8 @@ Testattu [TeamViewer][3] 9:n kokeiluversiolla.
 *	Control+sarkain ja Control+Shift+sarkain: Siirtää toiselle välilehdelle
   TeamViewerin pääikkunassa.
 
-## Changes for 2.0 ##
-*	 Add-on help is available from the Add-ons Manager.
+## Muutokset versiossa 2.0 ##
+*	 Ohje on käytettävissä Lisäosien hallinnasta.
 
 ## Muutokset versiossa 1.0 ##
 *	 Ensimmäinen versio.
