@@ -1,30 +1,31 @@
 # TeamViewer #
 
-*	Authoren: Noelia Ruiz Martínez, Mesar Hameed.
-*	lade [stable version][1] herunter
-*	lade [development version][2] herunter
+*	Autoren: Noelia Ruiz Martínez, Mesar Hameed.
+*	[Stabile Version][1] herunterladen
+*	[Testversion][2] herunterladen
 
 Diese Erweiterung verbessert die Zugänglichkeit von TeamViewer in Verbindung
 mit NVDA.
 
-It's based on TeamViewerNVDASupport add-on, developed by the same
-author. You should uninstall that old add-on to use this one, since both
-have common keystrokes and features.
+Diese Erweiterung ist die neue Weiterentwicklung der veralteten Erweiterung
+"TeamViewerNVDASupport", entwickelt vom selben Autor. Sie sollten die alte
+Version deinstallieren, da beide Versionen die gleichen Tastenkombinationen
+und Features haben.
 
-Getestet mit [TeamViewer][3] 9, trial-Version.
+Getestet mit [TeamViewer][3] 9 (Testversion).
 
 ## Tastenkombinationen: ##
 
-*	NVDA+Umschalt+C: kopiert die ID und das derzeitige Passwort in die
-  Zwischenablage sodass diese bspw. in einen Chat eingefügt werden können,
-  fals Remote-Unterstützung benötigt wird.
-*	Steuerung+Tab und Steuerung+Umschalt+Tab wechsle zu anderem Tab im
-  TeamViewer-Hauptfenster.
+*	NVDA+Umschalt+C: Kopiert die ID und das derzeitige Passwort in die
+  Zwischenablage, so dass diese beispielsweise in einen Chat eingefügt
+  werden können, falls Remote-Unterstützung benötigt wird.
+*	Strg+Tab und Strg+Umschalt+Tab: Schaltet die Tabs im
+  TeamViewer-Hauptfenster um.
 
-## Changes for 2.0 ##
-*	 Add-on help is available from the Add-ons Manager.
+## Änderungen in 2.0 ##
+*	 Hilfe zur Erweiterung ist in der Erweiterungsverwaltung verfügbar.
 
-## Änderungen bis 1.0 ##
+## Änderungen in 1.0 ##
 *	 Ehrstveröffentlichung
 
 [[!tag dev stable]]
