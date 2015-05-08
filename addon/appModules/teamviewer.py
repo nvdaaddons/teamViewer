@@ -2,6 +2,9 @@
 
 # App module for TeamViewer 9, trial version:
 # http://www.teamviewer.com
+# Date: 08/05/2015
+# Version: 2.0
+# Used windowsUtil instead of objects position to find windows
 # Date: 23/12/2013
 # Version: 1.0
 # Following community add-on guidelines
@@ -17,6 +20,9 @@ import os
 import api
 import controlTypes
 import ui
+import winUser
+import windowUtils
+import NVDAObjects.IAccessible
 
 addonHandler.initTranslation()
 
@@ -39,13 +45,21 @@ class AppModule(appModuleHandler.AppModule):
 			obj.name = _("Password")
 
 	def script_copyData(self, gesture):
-		obj = api.getForegroundObject().lastChild.lastChild.lastChild.previous.lastChild
-		if not obj:
+		try:
+			obj = NVDAObjects.IAccessible.getNVDAObjectFromEvent(
+			windowUtils.findDescendantWindow(api.getForegroundObject().windowHandle, controlID=20099),
+			winUser.OBJID_CLIENT, 0)
+		except LookupError:
 			return
 		password = obj.value
 		if not password:
 			return
-		obj = obj.simplePrevious.simplePrevious
+		try:
+			obj = NVDAObjects.IAccessible.getNVDAObjectFromEvent(
+			windowUtils.findDescendantWindow(api.getForegroundObject().windowHandle, controlID=20098),
+			winUser.OBJID_CLIENT, 0)
+		except LookupError:
+			return
 		id = obj.value
 		# Translators: a formatted message with the id and password which will be copied to clipboard ready to be pasted in a chat or similar to enable the individuals to share a team viewer session.
 		data = _("ID: {idValue} - Password: {passwordValue}").format(idValue=id, passwordValue=password)
@@ -57,6 +71,8 @@ class AppModule(appModuleHandler.AppModule):
 
 	def script_changeTab(self, gesture):
 		obj = api.getForegroundObject().firstChild.firstChild
+		if not obj:
+			return
 		children = obj.children
 		if len(children) != 3:
 			# Translators: message presented when trying to switch to a different tab, but the main dialog of TeamViewer is not focused.
@@ -75,8 +91,20 @@ class AppModule(appModuleHandler.AppModule):
 	# Translators: message presented in input mode.
 	script_changeTab.__doc__ = _("In the main dialog of TeamViewer, changes the selected tab.")
 
+	def script_moveToExternalID(self, gesture):
+		try:
+			obj = NVDAObjects.IAccessible.getNVDAObjectFromEvent(
+			windowUtils.findDescendantWindow(api.getForegroundObject().windowHandle, visible=True, controlID=1001),
+			winUser.OBJID_CLIENT, 0)
+		except LookupError:
+			return
+		obj.setFocus()
+	# Translators: message presented in input mode.
+	script_moveToExternalID.__doc__ = _("In the main dialog of TeamViewer, moves the focus to the external ID field of the selected tab.")
+
 	__gestures = {
 		"kb:NVDA+shift+c": "copyData",
 		"kb:control+tab": "changeTab",
 		"kb:control+shift+tab": "changeTab",
+		"kb:control+shift+a": "moveToExternalID",
 	}
