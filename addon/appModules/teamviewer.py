@@ -3,7 +3,7 @@
 # App module for TeamViewer 9, trial version:
 # http://www.teamviewer.com
 # Date: 08/05/2015
-# Version: 2.0
+# Version: 3.0
 # Used windowsUtil instead of objects position to find windows
 # Date: 23/12/2013
 # Version: 1.0
