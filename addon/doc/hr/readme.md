@@ -17,14 +17,14 @@ Testirano na [Teamvieweru][3] 9, probnoj verziji.
 
 *	nvda+shift+C: kopira trenutni id i password u međuspremnik, tako da se
   mogu zalijepiti i poslano putem chata kada se zahtijeva udaljena kontrola.
-*	control+tab and control+shift+tab: Switch to other tab in the TeamViewer
-  main dialog.
+*	control+tab i control+shift+tab: prebacivanje između drugih kartica u
+  teamviewerovom dijaloškom okviru.
 
-## Changes for 2.0 ##
-*	 Add-on help is available from the Add-ons Manager.
+## Promjene u inačici 2.0 ##
+*	 Pomoč dodatka dostupna je iz upravitelja dodatcima
 
-## Changes for 1.0 ##
-*	 Initial version.
+## Promjene u inačici 1.0 ##
+*	 Prva inačica.
 
 [[!tag dev stable]]
 
