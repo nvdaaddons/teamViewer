@@ -26,7 +26,7 @@
 ## Промени във версия 1.0 ##
 *	 Първоначално издание
 
-[[!tag dev stable]]
+[[!tag dev]]
 
 [1]: http://addons.nvda-project.org/files/get.php?file=tv
 

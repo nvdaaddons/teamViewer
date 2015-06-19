@@ -28,7 +28,7 @@ Getestet mit [TeamViewer][3] 9 (Testversion).
 ## Änderungen in 1.0 ##
 *	 Ehrstveröffentlichung
 
-[[!tag dev stable]]
+[[!tag dev]]
 
 [1]: http://addons.nvda-project.org/files/get.php?file=tv
 
