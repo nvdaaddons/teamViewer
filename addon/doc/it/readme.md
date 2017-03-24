@@ -1,33 +1,33 @@
 # TeamViewer #
 
 *	Autori: Noelia Ruiz Martínez, Mesar Hameed.
-*	Download [la versione stabile][1]
-*	Download [la versione di sviluppo][2]
+*	Scarica [versione stabile][1]
+*	Scarica [versione di sviluppo][2]
 
 Questo componente aggiuntivo migliora l'accessibilità di Team viewer con
 NVDA.
 
-Esso si basa su il componente aggiuntivo chiamato TeamViewerNVDASupport,
-sviluppato dallo stesso autore. Devi disinstalla il vecchio componente
-aggiuntivo per usare il nuovo componente aggiuntivo perche essi hanno stesse
-combinazioni di tasti e stesse caracteristichi.
+Basato sul componente aggiuntivo chiamato TeamViewerNVDASupport, sviluppato
+dallo stesso autore. è necessario disinstallare il vecchio componente, in
+quanto entrambi utilizzano gli stessi tasti rapidi e le medesime
+funzionalità.
 
-è stato testato su [TeamViewer][3] 9, la versione trial.
+Testato su [TeamViewer][3] 9, versione trial.
 
-## Gli combinazioni: ##
+## Scorciatoie da tastiera: ##
 
-*	nvda+shift+C: Copia l'ID e il password negli appunti, così loro possono
-  essere incollati e inviati su chat per isempio quando è richiesto
+*	nvda+shift+C: Copia ID e password negli appunti, in modo che possano
+  essere incollati e inviati via chat, per esempio, quando si utilizza
   l'accesso remoto.
-*	control+tab e control+shift+tab: Passa ad altri tabulatore nel dialogo
-  principale di Team Viewer.
+*	control+tab and control+shift+tab: Cambia la scheda selezionata nella
+  finestra principale di TeamViewer.
 
 ## Cambiamenti per 2.0 ##
-*	 l'aiuto di componente aggiuntivo è disponibile della gestore di
-   componenti aggiuntivi.
+*	 l'aiuto del componente aggiuntivo è disponibile nel gestore componenti
+   aggiuntivi.
 
 ## Cambiamenti per 1.0 ##
-*	 La versione iniziale.
+*	 versione iniziale.
 
 [[!tag dev]]
 
