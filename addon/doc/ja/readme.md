@@ -4,7 +4,7 @@
 *	download [stable version][1]
 *	download [development version][2]
 
-This add-on improves accessibility of TeamViewer with NVDA.
+このアドオンでは、NVDA での TeamViewer のアクセシビリティを改善します。
 
 これは、チームビューアーNVDAサポートアドオンに基づいて同じ作者が開発しています。二つのキーコマンドと機能を追加したので、このアドオンの以前のバージョンをお使いの方はアンインストールしてください。
 
@@ -16,11 +16,11 @@ Tested on [TeamViewer][3] 9, trial version.
   現在のIDとパスワードをコピーします。たとえばリモートコントロールが要求されたときに、貼り付けてチャットを送ることができます。
 *	control+tab または control+shift+tab: チームビューアーのメインダイアログのタブを切り替えます。
 
-## Changes for 2.0 ##
-*	 Add-on help is available from the Add-ons Manager.
+## 2.0へ変更点 ##
+*	 アドオンヘルプはアドオンマネジャーから見られます。
 
 ## 1.0への変更点 ##
-*	 最初のバージョン
+*	 最初のバージョン.
 
 [[!tag dev]]
 
