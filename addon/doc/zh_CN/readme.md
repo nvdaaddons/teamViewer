@@ -1,4 +1,4 @@
-# TeamViewer #
+# TeamViewer远程支持插件 #
 
 *	作者: Noelia Ruiz Martínez, Mesar Hameed.
 *	下载 [稳定版][1]
