@@ -28,4 +28,4 @@ Tested on [TeamViewer][3] 9, trial version.
 
 [2]: https://addons.nvda-project.org/files/get.php?file=tv-dev
 
-[3]: http://www.teamviewer.com
+[3]: https://www.teamviewer.com

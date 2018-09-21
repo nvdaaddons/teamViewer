@@ -65,6 +65,7 @@ msgstr "टीम्भ्युवर"
 
 #. Add-on description
 #. Translators: Long description to be shown for this add-on on add-on information from add-ons manager
+#, fuzzy
 msgid ""
 "Improves the accessibility of TeamViewer with NVDA.\n"
 "TeamViewer can be used to hold online meetings as well as provide remote "
@@ -76,4 +77,4 @@ msgstr ""
 "टीम्भ्युवर अन लाईन बैठकमा पर्योग गरिन्छ । यसका साथै यसले दूर सहयोग र पहुँचमा मद्दत  "
 "पुर्‍याउँ छ ।\n"
 "टीम्भ्युवर अनुप्रयोग सम्बन्धी थप जानकारीका लागि\n"
-"http://www.teamviewer.com मा भ्रमण गर्नु होला ।"
+"https://www.teamviewer.com मा भ्रमण गर्नु होला ।"

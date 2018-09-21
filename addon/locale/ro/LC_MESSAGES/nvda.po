@@ -10,12 +10,12 @@ msgstr ""
 "POT-Creation-Date: 2015-09-12 06:00+1000\n"
 "PO-Revision-Date: 2017-03-05 17:53+0200\n"
 "Last-Translator: Florian Ionașcu <florianionascu@hotmail.com>\n"
+"Language-Team: \n"
 "Language: ro\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Poedit 1.8.9\n"
-"Language-Team: \n"
 
 #. Translators: the label of a message box dialog.
 msgid ""
@@ -68,6 +68,7 @@ msgstr "TeamViewer"
 
 #. Add-on description
 #. Translators: Long description to be shown for this add-on on add-on information from add-ons manager
+#, fuzzy
 msgid ""
 "Improves the accessibility of TeamViewer with NVDA.\n"
 "TeamViewer can be used to hold online meetings as well as provide remote "
@@ -79,4 +80,4 @@ msgstr ""
 "TeamViewer poate fi folosit pentru a ține întrevederi online precum și "
 "pentru a furniza assistență/acces la distanță.\n"
 "Pentru mai multe informații despre aplicația TeamViewer, consultați:\n"
-"http://www.teamviewer.com"
+"https://www.teamviewer.com"
