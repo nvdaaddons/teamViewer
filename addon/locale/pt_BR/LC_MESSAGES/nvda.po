@@ -1,22 +1,22 @@
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
-# This file is distributed under the same license as the PACKAGE package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
+# Brazilian Portuguese translation of teamViewer.
+# Copyright (C) 2014-2018 NVDA Contributors.
+# This file is distributed under the same license as the NVDA package.
+# Cleverson Casarin Uliana <clever97@gmail.com>, 2014, 2017.
+# Tiago Melo Casal <tcasal@intervox.nce.ufrj.br>, 2018.
 msgid ""
 msgstr ""
 "Project-Id-Version: teamViewer 1.1-dev\n"
 "Report-Msgid-Bugs-To: nvda-translations@freelists.org\n"
 "POT-Creation-Date: 2014-04-11 20:00+0100\n"
-"PO-Revision-Date: 2014-08-09 11:45-0300\n"
-"Last-Translator: Cleverson Casarin Uliana <clever92000@yahoo.com.br>\n"
+"PO-Revision-Date: 2018-09-24 20:55-0300\n"
+"Last-Translator: Tiago Melo Casal <tcasal@intervox.nce.ufrj.br>\n"
 "Language-Team: Equipe de tradução do NVDA para Português do Brasil "
 "<clever92000@yahoo.com.br>\n"
 "Language: pt_BR\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 1.5.7\n"
+"X-Generator: Poedit 1.6.11\n"
 "X-Poedit-SourceCharset: UTF-8\n"
 
 #. Translators: the label of a message box dialog.
@@ -71,7 +71,6 @@ msgstr "TeamViewer"
 
 #. Add-on description
 #. Translators: Long description to be shown for this add-on on add-on information from add-ons manager
-#, fuzzy
 msgid ""
 "Improves the accessibility of TeamViewer with NVDA.\n"
 "TeamViewer can be used to hold online meetings as well as provide remote "
@@ -80,7 +79,7 @@ msgid ""
 "http://www.teamviewer.com"
 msgstr ""
 "Melhora a acessibilidade do TeamViewer com o NVDA.\n"
-"O TeamViewer pode ser usado para realizar reuniões, bem como prover suporte/"
-"acesso remoto.\n"
-"Para mais informações acerca do aplicativo TeamViewer, ver:\n"
-"https://www.teamviewer.com"
+"O TeamViewer pode ser usado para realizar reuniões on-line, bem como prover "
+"suporte/acesso remoto.\n"
+"Para mais informações acerca do aplicativo TeamViewer, consulte:\n"
+"http://www.teamviewer.com"

@@ -1,33 +1,34 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
-# This file is distributed under the same license as the PACKAGE package.
+# This file is distributed under the same license as the teamViewer package.
 # FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
 msgid ""
 msgstr ""
-"Project-Id-Version: teamViewer 1.0-dev\n"
+"Project-Id-Version: teamViewer 2.3\n"
 "Report-Msgid-Bugs-To: nvda-translations@freelists.org\n"
-"POT-Creation-Date: 2014-02-01 20:57+0100\n"
-"PO-Revision-Date: 2018-09-24 11:28+0200\n"
-"Last-Translator: René Linke <rene.linke@hamburg.de>\n"
-"Language: de\n"
+"POT-Creation-Date: 2017-02-03 20:00+1000\n"
+"PO-Revision-Date: 2018-09-21 19:52+0800\n"
+"Last-Translator: dingpengyu <dingpengyu06@gmail.com>\n"
+"Language-Team: \n"
+"Language: zh_CN\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "X-Generator: Poedit 2.1.1\n"
-"Language-Team: \n"
+"X-Poedit-SourceCharset: UTF-8\n"
 
 #. Translators: the label of a message box dialog.
 msgid ""
 "You have installed the TeamViewerNVDASupport add-on, probably an old and "
 "incompatible version with this one. Do you want to uninstall the old version?"
 msgstr ""
-"Sie haben die Erweiterung TeamViewerNVDASupport installiert, die nicht "
-"kompatibel ist. Möchten Sie die alte Version der Erweiterung deinstallieren?"
+"您已经安装了TeamViewerNVDASupport插件，可能是与此版本不兼容的旧版本。要卸载旧"
+"版本吗？"
 
 #. Translators: the title of a message box dialog.
 msgid "Uninstall incompatible add-on"
-msgstr "Inkompatible Erweiterung deinstallieren"
+msgstr "卸载不兼容的插件"
 
 #. Translators: label for the ID control in TeamViewer's main dialog.
 msgid "ID"
@@ -35,30 +36,28 @@ msgstr "ID"
 
 #. Translators: label for the password control in TeamViewer's main dialog.
 msgid "Password"
-msgstr "Kennwort"
+msgstr "密码"
 
 #. Translators: a formatted message with the id and password which will be copied to clipboard ready to be pasted in a chat or similar to enable the individuals to share a team viewer session.
 #, python-brace-format
 msgid "ID: {idValue} - Password: {passwordValue}"
-msgstr "ID: {idValue} - Kennwort: {passwordValue}"
+msgstr "ID: {idValue} - 密码: {passwordValue}"
 
 #. Translators: message presented when TeamViewer's ID and password have been copied to the clipboard.
 msgid "ID and password copied to clipboard."
-msgstr "Die ID und das Kennwort wurden in die Zwischenablage kopiert"
+msgstr "将ID和密码复制到剪贴板。"
 
 #. Translators: message presented in input mode.
 msgid "Copies your ID and password to the clipboard ready for sharing."
-msgstr "Kopiert die ID und das Kennwort in die Zwischenablage."
+msgstr "将您的ID和密码复制到剪贴板以方便共享。"
 
 #. Translators: message presented when trying to switch to a different tab, but the main dialog of TeamViewer is not focused.
 msgid "Unable to switch tab, please ensure the main dialog has focus."
-msgstr ""
-"Die Registerkarten konnten nicht gewechselt werden, stellen Sie sicher, dass "
-"der Hauptdialog den Fokus besitzt."
+msgstr "无法切换标签，请确保主对话框具有焦点。"
 
 #. Translators: message presented in input mode.
 msgid "In the main dialog of TeamViewer, changes the selected tab."
-msgstr "Wechselt im Hauptdialog von TeamViewer zwischen den Registerkarten."
+msgstr "在TeamViewer的主对话框中，更改选定的选项卡。"
 
 #. Add-on summary, usually the user visible name of the addon.
 #. Translators: Summary for this add-on to be shown on installation and add-on information.
@@ -67,6 +66,7 @@ msgstr "TeamViewer"
 
 #. Add-on description
 #. Translators: Long description to be shown for this add-on on add-on information from add-ons manager
+#, fuzzy
 msgid ""
 "Improves the accessibility of TeamViewer with NVDA.\n"
 "TeamViewer can be used to hold online meetings as well as provide remote "
@@ -74,8 +74,6 @@ msgid ""
 "For more information about the TeamViewer application, see:\n"
 "http://www.teamviewer.com"
 msgstr ""
-"Verbessert die Zugänglichkeit von TeamViewer mit NVDA.\n"
-"TeamViewer kann sowohl für die Durchführung von Online-Meetings als auch für "
-"den Remote-Support/Zugriff verwendet werden.\n"
-"Weitere Informationen über die TeamViewer-Anwendung finden Sie unter:\n"
-"https://www.teamviewer.com"
+"NVDA改进TeamViewer的插件，主要改进了可访问性。 TeamViewer可用于举行在线会议以"
+"及提供远程支持/访问。有关TeamViewer应用程序的更多信息，请访问：https：//www."
+"teamviewer.com"
