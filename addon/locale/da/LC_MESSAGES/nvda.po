@@ -8,14 +8,14 @@ msgstr ""
 "Project-Id-Version: teamViewer 2.0\n"
 "Report-Msgid-Bugs-To: nvda-translations@freelists.org\n"
 "POT-Creation-Date: 2014-10-17 20:00+1000\n"
-"PO-Revision-Date: 2014-12-05 19:35+0100\n"
-"Last-Translator: Bue Vester-Andersen <bue@vester-andersen.dk>\n"
+"PO-Revision-Date: 2018-11-20 19:00+0100\n"
+"Last-Translator: Nicolai Svendsen <chojiro1990@gmail.com>\n"
 "Language-Team: Danish <LL@li.org>\n"
 "Language: da\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 1.6.10\n"
+"X-Generator: Poedit 2.2\n"
 
 #. Translators: the label of a message box dialog.
 msgid ""
@@ -67,7 +67,6 @@ msgstr "TeamViewer"
 
 #. Add-on description
 #. Translators: Long description to be shown for this add-on on add-on information from add-ons manager
-#, fuzzy
 msgid ""
 "Improves the accessibility of TeamViewer with NVDA.\n"
 "TeamViewer can be used to hold online meetings as well as provide remote "
@@ -79,4 +78,4 @@ msgstr ""
 "TeamViewer kan bruges til at holde online-møder og og tilbyder desuden "
 "fjernadgang og fjernsupport.\n"
 "For flere oplysninger om programmet Teamviewer se\n"
-"https://www.teamviewer.com"
+"http://www.teamviewer.com"
