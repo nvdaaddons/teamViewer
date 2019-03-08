@@ -4,12 +4,12 @@
 *	Télécharger [version stable][1]
 *	Télécharger [version de développement][2]
 
-Ce module complémentaire améliore l'accessibilité de TeamViewer avec NVDA.
+Cette extension améliore l'accessibilité de TeamViewer avec NVDA.
 
-Il est basé sur le module de TeamViewerNVDASupport, développé par le même
-auteur. Vous devez désinstaller ce ancien module complémentaire pour
-utiliser celui-ci, puisque les deux ont des séquences de touches et des
-caractéristiques communes.
+Elle est basée sur l'extension TeamViewerNVDASupport, développé par le même
+auteur. Vous devez désinstaller l'ancienne extension pour utiliser celle-ci,
+puisque les deux ont des séquences de touches et des caractéristiques
+communes.
 
 Testé sur [TeamViewer][3] 9, version d'essai.
 
@@ -22,8 +22,8 @@ Testé sur [TeamViewer][3] 9, version d'essai.
   boîte de dialogue principale de TeamViewer.
 
 ## Changements pour la version 2.0 ##
-*	 L'aide du module complémentaire est disponible à partir du Gestionnaire
-   de modules complémentaires.
+*	 L'aide de l'extension est disponible à partir du Gestionnaire
+   d'extensions.
 
 ## Changements pour la version 1.0 ##
 *	 Première version.
