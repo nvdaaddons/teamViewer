@@ -9,7 +9,7 @@ msgstr ""
 "Project-Id-Version: teamViewer 1.0-dev\n"
 "Report-Msgid-Bugs-To: nvda-translations@freelists.org\n"
 "POT-Creation-Date: 2014-02-01 20:57+0100\n"
-"PO-Revision-Date: 2018-09-24 22:27+0300\n"
+"PO-Revision-Date: 2019-03-12 15:40+0200\n"
 "Last-Translator: Kostadin Kolev <k_kolev1985@mail.bg>\n"
 "Language-Team: Български <>\n"
 "Language: bg\n"
@@ -17,7 +17,7 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 "Plural-Forms: nplurals=2; plural=(n!=1);\n"
-"X-Generator: Poedit 2.1.1\n"
+"X-Generator: Poedit 1.6.10\n"
 
 #. Translators: the label of a message box dialog.
 msgid ""
@@ -47,11 +47,11 @@ msgstr "Идентификатор: {idValue} - Парола: {passwordValue}"
 
 #. Translators: message presented when TeamViewer's ID and password have been copied to the clipboard.
 msgid "ID and password copied to clipboard."
-msgstr "Идентификатора и паролата са копирани в клипборда."
+msgstr "Идентификаторът и паролата са копирани в клипборда."
 
 #. Translators: message presented in input mode.
 msgid "Copies your ID and password to the clipboard ready for sharing."
-msgstr "Копира вашият идентификатор и парола в клипборда готови за споделяне."
+msgstr "Копира вашия идентификатор и парола в клипборда готови за споделяне."
 
 #. Translators: message presented when trying to switch to a different tab, but the main dialog of TeamViewer is not focused.
 msgid "Unable to switch tab, please ensure the main dialog has focus."
@@ -61,7 +61,7 @@ msgstr ""
 
 #. Translators: message presented in input mode.
 msgid "In the main dialog of TeamViewer, changes the selected tab."
-msgstr "В главният прозорец на TeamViewer, променя активната страница."
+msgstr "В главния прозорец на TeamViewer променя активната страница."
 
 #. Add-on summary, usually the user visible name of the addon.
 #. Translators: Summary for this add-on to be shown on installation and add-on information.
