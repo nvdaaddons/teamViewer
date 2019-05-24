@@ -1,8 +1,8 @@
 # TeamViewer #
 
 *	Autoren: Noelia Ruiz Martínez, Mesar Hameed.
-*	[Stabile Version][1] herunterladen
-*	[Testversion][2] herunterladen
+*	[Stabile Version herunterladen][1]
+*	[Entwicklerversion herunterladen][2]
 
 Diese Erweiterung verbessert die Zugänglichkeit von TeamViewer in Verbindung
 mit NVDA.
