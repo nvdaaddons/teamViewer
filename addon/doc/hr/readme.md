@@ -1,30 +1,31 @@
 # TeamViewer #
 
 *	Autori: Noelia Ruiz Martínez, Mesar Hameed.
-*	Preuzmite [stabilnu inačicu][1]
-*	preuzmite [razvojnu inačicu][2]
+*	Preuzmi [stabilnu verziju][1]
+*	Preuzmi [razvojnu verziju][2]
 
-Ovaj dodatak unapređuje pristupačnost teamviewera sa NVDA čitačem zaslona.
+Ovaj dodatak unapređuje pristupačnost TeamViewera s NVDA čitačem.
 
-Ovaj nvda dodatak je baziran na starijem dodatku teamviewerNvdaSupport kojeg
-je razvio isti autor. Trebate deinstalirati stariju inačicu ovog dodatka
-kako biste mogli koristiti ovaj dodatak, budući da ovaj dodatak ima
-zajedničke prečace i značajke.
+Dodatak se bazira na starijem dodatku TeamViewerNVDASupport kojeg je razvio
+isti autor. Potrebno je deinstalirati stariju verziju ovog dodatka, kako bi
+se novi dodatak mogao koristiti, budući da oba dodatka ima zajedničke
+prečace i značajke.
 
 Testirano na [Teamvieweru][3] 9, probnoj verziji.
 
 ## Tipkovnički prečaci: ##
 
-*	nvda+shift+C: kopira trenutni id i password u međuspremnik, tako da se
-  mogu zalijepiti i poslano putem chata kada se zahtijeva udaljena kontrola.
-*	control+tab i control+shift+tab: prebacivanje između drugih kartica u
-  teamviewerovom dijaloškom okviru.
+*	nvda+shift+C: Kopira ID oznaku i trenutačnu lozinku u međuspremnik, tako
+  da se mogu zalijepiti i poslati putem chata kad je potrebna udaljena
+  kontrola.
+*	control+tab i control+shift+tab: Prebacivanje na drugu karticu u
+  TeamViewerovom glavnom dijalogu.
 
-## Promjene u inačici 2.0 ##
-*	 Pomoč dodatka dostupna je iz upravitelja dodatcima
+## Promjene u verziji 2.0 ##
+*	 Pomoć dodatka je dostupna u upravljaču za dodatke.
 
-## Promjene u inačici 1.0 ##
-*	 Prva inačica.
+## Promjene u verziji 1.0 ##
+*	 Prva verzija.
 
 [[!tag dev]]
 

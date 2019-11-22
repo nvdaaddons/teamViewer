@@ -1,38 +1,41 @@
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
-# This file is distributed under the same license as the PACKAGE package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+# Hrvatska lokalizacija za NVDA.
+# Copyright (C) 2006-2019 NVDA contributors <https://www.nvda-project.org>
+# This file is distributed under the same license as the virtualRevision package.
+# Zvonimir Stanečić <zvonimirek222@yandex.com>, 2018.
+# Milo Ivir <mail@milotype.de>, 2019.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: teamViewer 2.0\n"
 "Report-Msgid-Bugs-To: nvda-translations@freelists.org\n"
 "POT-Creation-Date: 2014-10-17 20:00+1000\n"
-"PO-Revision-Date: 2018-11-25 22:51+0100\n"
-"Last-Translator: zvonimir stanecic <zvonimirek222@yandex.com>\n"
+"PO-Revision-Date: 2019-11-15 23:29+0100\n"
+"Last-Translator: Milo Ivir <mail@milotype.de>\n"
 "Language-Team: hr <LL@li.org>\n"
 "Language: hr\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 1.6.10\n"
+"X-Generator: Poedit 2.2.4\n"
 "X-Poedit-SourceCharset: UTF-8\n"
+"Plural-Forms: nplurals=3; plural=(n%10==1 && n%100!=11 ? 0 : n%10>=2 && n"
+"%10<=4 && (n%100<12 || n%100>14) ? 1 : 2);\n"
 
 #. Translators: the label of a message box dialog.
 msgid ""
 "You have installed the TeamViewerNVDASupport add-on, probably an old and "
 "incompatible version with this one. Do you want to uninstall the old version?"
 msgstr ""
-"Instalirali ste teamviewer nvda podršku, možda  je to nekompatibilna i stara "
-"verzija. želite li ju deinstalirati?"
+"Vjerojatno je instalirana stara i nekompatibilna verziju dodatka "
+"„TeamViewer”. Želiš li ukloniti staru verziju?"
 
 #. Translators: the title of a message box dialog.
 msgid "Uninstall incompatible add-on"
-msgstr "Ukloni nekompatibilan dodatak"
+msgstr "Ukloni nekompatibilni dodatak"
 
 #. Translators: label for the ID control in TeamViewer's main dialog.
 msgid "ID"
-msgstr "ID"
+msgstr "ID oznaka"
 
 #. Translators: label for the password control in TeamViewer's main dialog.
 msgid "Password"
@@ -41,25 +44,26 @@ msgstr "Lozinka"
 #. Translators: a formatted message with the id and password which will be copied to clipboard ready to be pasted in a chat or similar to enable the individuals to share a team viewer session.
 #, python-brace-format
 msgid "ID: {idValue} - Password: {passwordValue}"
-msgstr "ID: {idValue} - Lozinka: {passwordValue}"
+msgstr "ID oznaka: {idValue} – Lozinka: {passwordValue}"
 
 #. Translators: message presented when TeamViewer's ID and password have been copied to the clipboard.
 msgid "ID and password copied to clipboard."
-msgstr "ID i lozinka kopirani u međuspremnik."
+msgstr "ID oznaka i lozinka kopirani su u međuspremnik."
 
 #. Translators: message presented in input mode.
 msgid "Copies your ID and password to the clipboard ready for sharing."
-msgstr "Kopira vaš ID i lozinku u međuspremnik spremnu za dijeljenje."
+msgstr ""
+"Kopira tvoju ID oznaku i lozinku u međuspremnik, spremnu za dijeljenje."
 
 #. Translators: message presented when trying to switch to a different tab, but the main dialog of TeamViewer is not focused.
 msgid "Unable to switch tab, please ensure the main dialog has focus."
 msgstr ""
-"Nemoguće se prebacivati između kartica, molimo uvjerite se da glavna "
-"aplikacija ima fokus."
+"Prebacivanje na drugu karticu nije moguće. Uvjeri se da glavni dijalog ima "
+"fokus."
 
 #. Translators: message presented in input mode.
 msgid "In the main dialog of TeamViewer, changes the selected tab."
-msgstr "Mijenja karticu u glavnom prozoru team viewera."
+msgstr "Mijenja karticu u glavnom prozoru teamviewera."
 
 #. Add-on summary, usually the user visible name of the addon.
 #. Translators: Summary for this add-on to be shown on installation and add-on information.
@@ -75,8 +79,8 @@ msgid ""
 "For more information about the TeamViewer application, see:\n"
 "http://www.teamviewer.com"
 msgstr ""
-"Poboljšava pristupačnost aplikacije TEAM VIEWER sa NVDA.\n"
-"Team viewer se može koristiti za daljinsku tehničku podršku i za on-line "
-"susrete.\n"
-"Za više informacija o aplikaciji team viewer, pogledajte:\n"
+"Poboljšava pristupačnost TeamViewera s NVDA čitačem.\n"
+"TeamViewer se može koristiti za on-line susrete kao i za daljinsku tehničku "
+"podršku.\n"
+"Za više informacija o aplikaciji TeamViewer, pogledaj:\n"
 "https://www.teamviewer.com"
