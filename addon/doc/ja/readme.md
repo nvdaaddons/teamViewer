@@ -22,7 +22,7 @@ Tested on [TeamViewer][3] 9, trial version.
 ## 1.0への変更点 ##
 *	 最初のバージョン.
 
-[[!tag dev]]
+[[!tag legacy]]
 
 [1]: https://addons.nvda-project.org/files/get.php?file=tv
 

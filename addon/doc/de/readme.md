@@ -26,9 +26,9 @@ Getestet mit [TeamViewer][3] 9 (Testversion).
 *	 Hilfe zur Erweiterung ist in der Erweiterungsverwaltung verfügbar.
 
 ## Änderungen in 1.0 ##
-*	 Ehrstveröffentlichung
+*	 Erstveröffentlichung.
 
-[[!tag dev]]
+[[!tag legacy]]
 
 [1]: https://addons.nvda-project.org/files/get.php?file=tv
 

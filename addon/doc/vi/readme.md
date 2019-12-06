@@ -25,7 +25,7 @@ lệnh phổ biến.
 ## Các thay đổi cho phiên bản 1.0 ##
 *	 Phiên bản đầu tiên.
 
-[[!tag dev]]
+[[!tag legacy]]
 
 [1]: https://addons.nvda-project.org/files/get.php?file=tv
 

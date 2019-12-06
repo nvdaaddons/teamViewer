@@ -22,12 +22,12 @@ Testirano na [Teamvieweru][3] 9, probnoj verziji.
   TeamViewerovom glavnom dijalogu.
 
 ## Promjene u verziji 2.0 ##
-*	 Pomoć dodatka je dostupna u upravljaču za dodatke.
+*	 Pomoć dodatka je dostupna u stavci Upravljanje dodacima.
 
 ## Promjene u verziji 1.0 ##
 *	 Prva verzija.
 
-[[!tag dev]]
+[[!tag legacy]]
 
 [1]: https://addons.nvda-project.org/files/get.php?file=tv
 

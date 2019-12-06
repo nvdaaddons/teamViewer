@@ -25,7 +25,7 @@
 ## १.० संस्करणमा गरिएका परिवर्तन हरू ##
 *	 सुरुको संस्करण
 
-[[!tag dev]]
+[[!tag legacy]]
 
 [1]: https://addons.nvda-project.org/files/get.php?file=tv
 

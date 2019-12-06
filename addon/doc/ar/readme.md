@@ -26,7 +26,7 @@
 ## مستجدات الإصدار 1.0 ##
 *	 إصدار أولي
 
-[[!tag dev]]
+[[!tag legacy]]
 
 [1]: https://addons.nvda-project.org/files/get.php?file=tv
 

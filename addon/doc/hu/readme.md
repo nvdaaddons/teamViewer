@@ -27,7 +27,7 @@ A [TeamViewer][3] 9-es, trial verziójával tesztelve.
 ## Az 1.0 változásai ##
 *	 Első kiadás
 
-[[!tag dev]]
+[[!tag legacy]]
 
 [1]: https://addons.nvda-project.org/files/get.php?file=tv
 

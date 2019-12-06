@@ -26,7 +26,7 @@
 ## Изменения для версии 1.0 ##
 *	 Первоначальная версия.
 
-[[!tag dev]]
+[[!tag legacy]]
 
 [1]: https://addons.nvda-project.org/files/get.php?file=tv
 

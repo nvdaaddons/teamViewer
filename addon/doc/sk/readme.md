@@ -26,7 +26,7 @@ Testované na [TeamViewer][3] 9, skúšobná verzia.
 ## Zmeny vo verzii 1.0 ##
 *	 prvé vydanie.
 
-[[!tag dev]]
+[[!tag legacy]]
 
 [1]: https://addons.nvda-project.org/files/get.php?file=tv
 

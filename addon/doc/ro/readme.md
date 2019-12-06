@@ -25,7 +25,7 @@ Testat pe [TeamViewer][3] 9, versiunea de probă.
 ## Modificări aduse în versiunea 1.0 ##
 *	 lansarea inițială.
 
-[[!tag dev]]
+[[!tag legacy]]
 
 [1]: https://addons.nvda-project.org/files/get.php?file=tv
 

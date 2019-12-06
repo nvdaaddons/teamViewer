@@ -29,7 +29,7 @@ Testato su [TeamViewer][3] 9, versione trial.
 ## Cambiamenti per 1.0 ##
 *	 versione iniziale.
 
-[[!tag dev]]
+[[!tag legacy]]
 
 [1]: https://addons.nvda-project.org/files/get.php?file=tv
 

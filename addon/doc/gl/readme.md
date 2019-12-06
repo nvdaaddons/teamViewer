@@ -12,9 +12,9 @@ que ambos teñen as pulsacións do teclado e as características comúns.
 
 Comprobado no [TeamViewer][3] 9, Versión de proba.
 
-## Ordes de Teclado ##
+## Ordes de Teclado: ##
 
-*	NVDA+Shift+C: Copia o ID e o contrasinal actual no portapapeis, de xeito
+*	nvda+shift+C: Copia o ID e o contrasinal actual no portapapeis, de xeito
   que se podan pegar e enviar a través do chat, por exemplo, cando se
   requira un control remoto.
 *	control+tab e control+shift+tab: Cambia a outra pestana no cadro de
@@ -26,7 +26,7 @@ Comprobado no [TeamViewer][3] 9, Versión de proba.
 ## Cambios para 1.0 ##
 *	 Versión inicial.
 
-[[!tag dev]]
+[[!tag legacy]]
 
 [1]: https://addons.nvda-project.org/files/get.php?file=tv
 
