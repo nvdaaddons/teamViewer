@@ -8,21 +8,22 @@ msgstr ""
 "Project-Id-Version: teamViewer 1.0-dev\n"
 "Report-Msgid-Bugs-To: nvda-translations@freelists.org\n"
 "POT-Creation-Date: 2014-02-01 20:57+0100\n"
-"PO-Revision-Date: 2014-02-12 15:03+0100\n"
+"PO-Revision-Date: 2020-01-07 18:27+0100\n"
 "Last-Translator: Ondrej Rosík <ondrej.rosik@gmail.com>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
-"Language: sk\n"
+"Language-Team: SK <ondrej.rosik@gmail.com>\n"
+"Language: sk_SK\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 1.5.7\n"
+"X-Generator: Poedit 1.6.11\n"
+"Plural-Forms: nplurals=3; plural=(n==1) ? 0 : (n>=2 && n<=4) ? 1 : 2;\n"
 
 #. Translators: the label of a message box dialog.
 msgid ""
 "You have installed the TeamViewerNVDASupport add-on, probably an old and "
 "incompatible version with this one. Do you want to uninstall the old version?"
 msgstr ""
-"Máte nainštalovanú staršiu verziu tohto doplnku. chcete ju aktualizovať?"
+"Máte nainštalovanú staršiu verziu tohto doplnku. Chcete ju aktualizovať?"
 
 #. Translators: the title of a message box dialog.
 msgid "Uninstall incompatible add-on"
@@ -64,7 +65,6 @@ msgstr "TeamViewer"
 
 #. Add-on description
 #. Translators: Long description to be shown for this add-on on add-on information from add-ons manager
-#, fuzzy
 msgid ""
 "Improves the accessibility of TeamViewer with NVDA.\n"
 "TeamViewer can be used to hold online meetings as well as provide remote "
@@ -75,5 +75,5 @@ msgstr ""
 "Zlepšuje prístupnosť programu TeamViewer cez NVDA.\n"
 "TeamViewer  sa dá využiť na on-line konferencie a na vzdialenú správu "
 "počítača.\n"
-"pre viac informácii pozrite:\n"
+"pre viac informácií pozrite:\n"
 "https://www.teamviewer.com"
