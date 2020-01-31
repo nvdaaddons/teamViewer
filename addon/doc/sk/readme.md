@@ -2,7 +2,7 @@
 
 *	Autori: Noelia Ruiz Martínez, Mesar Hameed.
 *	Stiahnuť [stabilnú verziu][1]
-*	stiahnuť [verziu vo vývoji][2]
+*	stiahnuť [vývojovú verziu][2]
 
 Tento doplnok zlepšuje prístupnosť programu TeamViewer s čítačom obrazovky
 NVDA.
