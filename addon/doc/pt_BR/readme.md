@@ -1,8 +1,8 @@
 # TeamViewer #
 
 *	Autores: Noelia Ruiz Martínez, Mesar Hameed.
-*	baixe a [stable version][1]
-*	baixe a [development version][2]
+*	baixe a [versão estável][1]
+*	baixe a [versão em desenvolvimento][2]
 
 Este complemento melhora a acessibilidade do TeamViewer com o NVDA.
 
