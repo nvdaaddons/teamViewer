@@ -15,10 +15,10 @@ Testirano na [Teamvieweru][3] 9, probnoj verziji.
 
 ## Tipkovnički prečaci: ##
 
-*	nvda+shift+C: Kopira ID oznaku i trenutačnu lozinku u međuspremnik, tako
-  da se mogu zalijepiti i poslati putem chata kad je potrebna udaljena
+*	nvda+šift+C: Kopira ID oznaku i trenutačnu lozinku u međuspremnik, tako da
+  se mogu zalijepiti i poslati putem chata kad je potrebna udaljena
   kontrola.
-*	control+tab i control+shift+tab: Prebacivanje na drugu karticu u
+*	kontrol+tab i kontrol+šift+tab: Prebacivanje na drugu karticu u
   TeamViewerovom glavnom dijalogu.
 
 ## Promjene u verziji 2.0 ##
