@@ -1,8 +1,8 @@
 # TeamViewer #
 
 *	Autori: Noelia Ruiz Martínez, Mesar Hameed.
-*	Scarica [versione stabile][1]
-*	Scarica [versione di sviluppo][2]
+*	scarica [versione stabile][1]
+*	scarica [versione di sviluppo][2]
 
 Questo componente aggiuntivo migliora l'accessibilità di Team viewer con
 NVDA.
@@ -22,12 +22,12 @@ Testato su [TeamViewer][3] 9, versione trial.
 *	control+tab and control+shift+tab: Cambia la scheda selezionata nella
   finestra principale di TeamViewer.
 
-## Cambiamenti per 2.0 ##
+## Novità nella versione 2.0 ##
 *	 l'aiuto del componente aggiuntivo è disponibile nel gestore componenti
    aggiuntivi.
 
-## Cambiamenti per 1.0 ##
-*	 versione iniziale.
+## Novità nella versione 1.0 ##
+*	 Versione iniziale.
 
 [[!tag legacy]]
 
