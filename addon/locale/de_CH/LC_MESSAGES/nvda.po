@@ -1,21 +1,21 @@
 # SOME DESCRIPTIVE TITLE.
 # Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
 # This file is distributed under the same license as the PACKAGE package.
-# FIRST AUTHOR <EMAIL@ADDREss>, YEAR.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
 #
 msgid ""
 msgstr ""
 "Project-Id-Version: teamViewer 1.0-dev\n"
 "Report-Msgid-Bugs-To: nvda-translations@freelists.org\n"
 "POT-Creation-Date: 2014-02-01 20:57+0100\n"
-"PO-Revision-Date: 2014-02-16 00:32+0100\n"
-"Last-Translator: René Linke <rene.linke@hamburg.de>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
+"PO-Revision-Date: 2019-03-09 20:17+0100\n"
+"Last-Translator: Robert Hänggi <aarjay.robert@gmail.com>\n"
 "Language: de_CH\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 1.6.4\n"
+"X-Generator: Poedit 2.0.6\n"
+"Language-Team: \n"
 
 #. Translators: the label of a message box dialog.
 msgid ""
@@ -67,7 +67,6 @@ msgstr "TeamViewer"
 
 #. Add-on description
 #. Translators: Long description to be shown for this add-on on add-on information from add-ons manager
-#, fuzzy
 msgid ""
 "Improves the accessibility of TeamViewer with NVDA.\n"
 "TeamViewer can be used to hold online meetings as well as provide remote "
@@ -76,6 +75,7 @@ msgid ""
 "http://www.teamviewer.com"
 msgstr ""
 "Verbessert die Zugänglichkeit von TeamViewer mit NVDA.\n"
-"Mit TeamViewer können Sie gemeinsam über ein Netzwerk auf andere PCs "
-"zugreifen. Weitere Informationen über TeamViewer finden Sie unter:\n"
+"TeamViewer kann sowohl für die Durchführung von Online-Meetings als auch für "
+"den Remote-Support oder den Zugriff für eine Fernwartung verwendet werden.\n"
+"Weitere Informationen über die TeamViewer-Anwendung finden Sie unter:\n"
 "https://www.teamviewer.com"
