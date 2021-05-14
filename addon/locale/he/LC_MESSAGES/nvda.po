@@ -6,7 +6,7 @@
 msgid ""
 msgstr ""
 "Project-Id-Version: teamViewer 2.2\n"
-"Report-Msgid-Bugs-To: nvda-translations@freelists.org\n"
+"Report-Msgid-Bugs-To: nvda-translations@groups.io\n"
 "POT-Creation-Date: 2015-09-12 06:00+1000\n"
 "PO-Revision-Date: 2018-12-06 14:15+0200\n"
 "Last-Translator: \n"
