@@ -15,7 +15,7 @@ Comprobado en [TeamViewer][3] 9, Versión de prueba.
 
 ## Órdenes de Teclado: ##
 
-*	NVDA+Shift+C: Copia el ID y la contraseña actual en el portapapeles, de
+*	nvda+Shift+C: Copia el ID y la contraseña actual en el portapapeles, de
   forma que se puedan pegar y enviar a través de chat, por ejemplo, cuando
   se requiera un control remoto.
 *	control+tab y control+shift+tab: Cambia a otra pestaña en el cuadro de
@@ -30,8 +30,8 @@ Comprobado en [TeamViewer][3] 9, Versión de prueba.
 
 [[!tag legacy]]
 
-[1]: https://addons.nvda-project.org/files/get.php?file=tv
+[1]: https://www.nvaccess.org/addonStore/legacy?file=tv
 
-[2]: https://addons.nvda-project.org/files/get.php?file=tv-dev
+[2]: https://www.nvaccess.org/addonStore/legacy?file=tv-dev
 
 [3]: https://www.teamviewer.com

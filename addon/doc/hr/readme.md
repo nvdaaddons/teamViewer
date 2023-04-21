@@ -29,8 +29,8 @@ Testirano na [Teamvieweru][3] 9, probnoj verziji.
 
 [[!tag legacy]]
 
-[1]: https://addons.nvda-project.org/files/get.php?file=tv
+[1]: https://www.nvaccess.org/addonStore/legacy?file=tv
 
-[2]: https://addons.nvda-project.org/files/get.php?file=tv-dev
+[2]: https://www.nvaccess.org/addonStore/legacy?file=tv-dev
 
 [3]: https://www.teamviewer.com
