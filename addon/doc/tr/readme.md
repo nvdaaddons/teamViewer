@@ -16,7 +16,7 @@ sorunsuz kulanmak için eski eklentiyi kaldırmanız gerekir.
 
 *	nvda+shift+C: ID ve geçerli parolayı panoya kopyalar, böylece örneğin bir
   sohbet sırasında uzaktan kontrolün gerektiği anda karşı tarafa bilgilerin
-  kolayca gönderilmesine yardımcı olur. 
+  kolayca gönderilmesine yardımcı olur.
 *	control+tab ve control+shift+tab: TeamViewer ana iletişim kutusunda diğer
   sekmeye geçişi sağlar.
 
