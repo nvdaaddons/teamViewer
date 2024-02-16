@@ -1,6 +1,6 @@
 # TeamViewer #
 
-*	Autori: Noelia Ruiz Martínez, Mesar Hameed.
+*	Authors: Noelia Ruiz Martínez, Mesar Hameed.
 *	Preuzmi [stabilnu verziju][1]
 *	Preuzmi [razvojnu verziju][2]
 

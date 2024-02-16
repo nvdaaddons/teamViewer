@@ -1,6 +1,6 @@
 # TeamViewer #
 
-*	مطورو الإضافة: Noelia Ruiz Martínez, Mesar Hameed.
+*	Authors: Noelia Ruiz Martínez, Mesar Hameed.
 *	تحميل [الإصدار النهائي][1]
 *	تحميل [الإصدار التجريبي][2]
 

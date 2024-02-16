@@ -1,6 +1,6 @@
 # TeamViewer #
 
-*	Yazarlar: Noelia Ruiz Martinez, Mesar Hameed.
+*	Yazarlar: Noelia Ruiz Martínez, Mesar Hameed.
 *	[kararlı sürümü][1] indir
 *	[geliştirilme aşamasında olan sürümü][1] indir
 

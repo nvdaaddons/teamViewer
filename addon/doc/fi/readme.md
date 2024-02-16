@@ -1,6 +1,6 @@
 # TeamViewer #
 
-*	Tekijät: Noelia Ruiz Martínez, Mesar Hameed.
+*	Authors: Noelia Ruiz Martínez, Mesar Hameed.
 *	Lataa [vakaa versio][1]
 *	Lataa [kehitysversio][2]
 

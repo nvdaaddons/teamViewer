@@ -1,6 +1,6 @@
 # TeamViewer #
 
-*	Tác giả: Noelia Ruiz Martínez, Mesar Hameed.
+*	Authors: Noelia Ruiz Martínez, Mesar Hameed.
 *	tải về [phiên bản chính thức][1]
 *	tải về [phiên bản thử nghiệm][2]
 

@@ -1,6 +1,6 @@
 # TeamViewer #
 
-*	Készítők: Noelia Ruiz Martínez, Mesar Hameed.
+*	Authors: Noelia Ruiz Martínez, Mesar Hameed.
 *	Letöltés [stabil verzió][1]
 *	Letöltés [fejlesztői verzió][2]
 

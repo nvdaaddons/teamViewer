@@ -1,6 +1,6 @@
 # TeamViewer #
 
-*	Autoren: Noelia Ruiz Martínez, Mesar Hameed.
+*	Authors: Noelia Ruiz Martínez, Mesar Hameed.
 *	[Stabile Version herunterladen][1]
 *	[Entwicklerversion herunterladen][2]
 

@@ -1,6 +1,6 @@
 # TeamViewer #
 
-*	Авторы: Noelia Ruiz Martínez, Mesar Hameed.
+*	Authors: Noelia Ruiz Martínez, Mesar Hameed.
 *	загрузить [стабильную версию][1]
 *	загрузить [разрабатываемую версию][2]
 
